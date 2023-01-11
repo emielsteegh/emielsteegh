@@ -1,6 +1,6 @@
 👋 Hi, I’m @emielsteegh\
 👀 I’m interested in innovation with data!\
-🌱 I’m passionate about AI, ethics, big data management and minimalism.\
+🌱 I’m passionate about NLP, forecasting, ethics, and minimalism.\
 📫 www.emielsteegh.com
 
 <!---
